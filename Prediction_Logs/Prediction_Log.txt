@@ -1,0 +1,8 @@
+2021-04-12/20:09:12		Start of Validation on files for prediction!!
+2021-04-12/20:10:05		Start of Validation on files for prediction!!
+2021-04-12/20:10:11		Raw Data Validation Complete!!
+2021-04-12/20:10:11		Starting Data Transforamtion!!
+2021-04-12/20:10:17		DataTransformation Completed!!!
+2021-04-12/20:10:17		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-04-12/20:11:57		Table creation Completed!!
+2021-04-12/20:11:57		Insertion of Data into Table started!!!!
